@@ -23,7 +23,7 @@ This project renders the Mandelbrot set in real-time using the GPU. It leverages
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/mterenzi/mandelbrot_32
     cd mandelbrot
     ```
 
